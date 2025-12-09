@@ -66,5 +66,8 @@ This dashboard will help the business:
 
 ## B & J Dashboard Overview
 ### Sales Performance Dashboard
+- <a href="https://github.com/NuelzHeart/B_J-Biscuits-Sales-Dashboard---Excel-Dashboard/blob/main/B%20%26%20J%20Sales%20Performance%20Dashboard.png">View Dashboard</a>
+### Profit Performance Dashboard
+
 
 
