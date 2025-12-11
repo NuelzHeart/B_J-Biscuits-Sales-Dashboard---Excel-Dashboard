@@ -62,7 +62,7 @@ This dashboard will help the business:
 - Support leadership with clear insights for strategic growth
 
 ## B & J Sales Dataset
-- <a href="https://github.com/NuelzHeart/B_J-Biscuits-Sales-Dashboard---Excel-Dashboard/blob/main/B%20%26%20J%20Sales%20Dataset.xlsx">Dataset</a>
+- <a href="https://github.com/NuelzHeart/B_J-Biscuits-Sales-Dashboard---Excel-Dashboard/blob/main/B%20%26%20J%20Dataset.xlsx">Dataset</a>
 
 ## B & J Dashboard Overview
 ### Sales Performance Dashboard
